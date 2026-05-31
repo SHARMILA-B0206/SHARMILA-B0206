@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sharmila%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Full-Stack%20Developer%20%7C%20Building%20Clean%2C%20Purposeful%20Web%20Experiences&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sharmila%&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Full-Stack%20Developer%20%7C%20Building%20Clean%2C%20Purposeful%20Web%20Experiences&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sharmila+B+%F0%9F%91%8B;MCA+Student+%7C+Full-Stack+Developer;HTML+%2B+CSS+%2B+JavaScript+%2B+Java;Building+Responsive+%26+Clean+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sharmila+%F0%9F%91%8B;MCA+Student+%7C+Full-Stack+Developer;HTML+%2B+CSS+%2B+JavaScript+%2B+Java;Building+Responsive+%26+Clean+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,6 @@
 
 ---
 
-## 👩‍💻 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
