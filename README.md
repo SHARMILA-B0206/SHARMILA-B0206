@@ -16,34 +16,7 @@
 
 ---
 
-## 👩‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```java
-public class Sharmila {
-
-    String name        = "Sharmila B";
-    String location    = "Nagapattinam, Tamil Nadu, India";
-    String degree      = "MCA @ E.G.S. Pillay Engineering College (2024–2026)";
-
-    String[] stack = {
-        "HTML5", "CSS3", "JavaScript",
-        "Core Java", "MySQL", "MongoDB"
-    };
-
-    String[] currentlyLearning = {
-        "React.js",
-        "Node.js / Express",
-        "REST APIs"
-    };
-
-    String funFact  = "I built a fully functional Grocery Store website with cart logic!";
-
-    void motto() {
-        System.out.println("Write clean code. Build purposeful products.");
-    }
-}
 ```
 
 <br clear="right"/>
