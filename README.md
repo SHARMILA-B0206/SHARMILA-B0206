@@ -14,14 +14,6 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-Entry%20Level%20Dev-38bdae?style=flat-square&logo=handshake&logoColor=white" alt="Open to Work"/>
 </div>
 
----
-
-
-```
-
-<br clear="right"/>
-
----
 
 ## 🛠️ Tech Stack
 
